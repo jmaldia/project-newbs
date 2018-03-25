@@ -49,3 +49,8 @@ This is a project intended to provided experience in collaborating in a developm
 3. $ git checkout < BRANCHNAME >
 4. $ git merge development  
 5. $ git push origin < BRANCHNAME >
+
+### Team Members
+Aracely Valencia
+Jon Mladia
+Karren Zoleta
